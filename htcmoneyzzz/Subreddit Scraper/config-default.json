@@ -1,0 +1,14 @@
+{
+  "token": "BOT_TOKEN",
+  "prefix": "dm:",
+  "subreddit": "dankmemes",
+  "items": 5,
+  "server": "224000161435746304",
+  "channel": "260548803579346945",
+
+  "bot": {
+    "id": "REDDI-ID",
+    "secret": "REDDIT-SECRET",
+    "uri": "http://www.example.com/redditoauth"
+  }
+}

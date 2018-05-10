@@ -1,0 +1,13 @@
+{
+  "token": "BOT_TOKEN",
+  "coinsPerMessage": 1,
+  "roles": {
+    "default": "ROLE_ID",
+    "choice": {
+      "knight": "ROLE_ID",
+      "mage": "ROLE_ID",
+      "rogue": "ROLE_ID"
+    },
+    "king": "ROLE_ID"
+  }
+}
