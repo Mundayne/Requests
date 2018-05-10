@@ -1,0 +1,17 @@
+{
+  "name": "rank-progression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "komada": "^0.21.1",
+    "level": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mundane",
+  "license": "MIT"
+}

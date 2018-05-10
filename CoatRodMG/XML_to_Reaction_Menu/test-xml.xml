@@ -1,0 +1,9 @@
+<Object id="Snake">
+  <Health>50</Health>
+  <Exp>25</Exp>
+  <Image>https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/DCTM_Penguin_UK_DK_AL629526_pkusmj.jpg</Image>
+
+  <Projectile id="Green Bolt">
+    <Emote>&lt;:fingerguns:443999810186510337&gt;</Emote>
+  </Projectile>
+</Object>
