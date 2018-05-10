@@ -42,14 +42,9 @@ files.forEach(file => {
     },
     fields: [
       {
-        name: 'Health',
-        value: file.Object.Health,
-        inline: true
-      },
-      {
-        name: 'Exp',
-        value: file.Object.Exp,
-        inline: true
+        name: 'Stats',
+        value: `**HP:** ${file.Object.Health}
+**EXP:** ${file.Object.Exp}`
       },
       {
         name: file.Object.Projectile.id,
